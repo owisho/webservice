@@ -1,0 +1,3 @@
+webserivce通常包括：
+·SOAP：Simple Object Access Protocol 简单对象访问协议
+一个基于XML的可扩展消息信封格式，需同时绑定一个网络传输协议。这个协议通常是HTTP或HTTPS，但也可能是SMTP或XMPP。
